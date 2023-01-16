@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Home
+permalink: /
 ---
-
 ![AI restoration of Borja's Ecce Homo](/assets/img/aiwork/ai1.jpeg)
 Welcome to our website for art restoration! We are a team of skilled professionals dedicated to preserving and revitalizing works of art. Our team has a wealth of experience in a variety of techniques, including conservation, restoration, and preservation.
 ![Joanquin Torres-Garcia's 'Composicion Constructiva' 1932](/assets/img/aiwork/ai2.jpeg)
