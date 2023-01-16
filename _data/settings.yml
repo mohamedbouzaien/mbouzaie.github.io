@@ -2,12 +2,11 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'Projects', url: 'projects'}
 - {name: 'The team', url: 'team'}
 - {name: 'Exhibitions', url: 'exhibitions'}
 - {name: 'News',     url: 'news'}
 - {name: 'Media', url: 'media'}
-- {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
